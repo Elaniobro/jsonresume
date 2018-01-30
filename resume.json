@@ -1,0 +1,226 @@
+{
+  "basics": {
+    "name": "Elan Trybuch",
+    "label": "Front End Engineer",
+    "picture": "https://avatars1.githubusercontent.com/u/710847?s=460&v=4",
+    "email": "elan@trybuch.com",
+    "phone": "(646) 801-8275",
+    "website": "http://elan.trybuch.com",
+    "summary": "Elan Trybuch is a well versed Software engineer, working on client side websites and projects with over 10+ years of experience. Elan Trybuch is an affordable, honest businessman who is easily accesible and great to work with.",
+    "location": {
+      "address": "",
+      "postalCode": "NY 11231",
+      "city": "Brooklyn, New York",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "elaniobro",
+        "url": "http://www.twitter.com/elaniobro"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "elantrybuch",
+        "url": "http://www.linkedin.com/in/elantrybuch"
+      },
+      {
+        "network": "instagram",
+        "username": "elaniobro",
+        "url": "http://www.instagram.com/elaniobro"
+      },
+      {
+        "network": "Github",
+        "username": "elaniobro",
+        "url": "https://github.com/Elaniobro"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Major League Baseball",
+      "position": "Lead Software Engineer",
+      "website": "https://www.mlb.com",
+      "endDate": "",
+      "startDate": "2015.03",
+      "summary": "Major League Baseball is a professional baseball organization, the oldest of the four major professional sports leagues in the United States and Canada. A total of 30 teams play in the National League (NL) and American League (AL), with 15 teams in each league. The NL and AL were formed as separate legal entities in 1876 and 1901 respectively.",
+      "highlights": [
+        "Developing scalable, high performance websites for MLBAM partner solutions. Working on consumer facing websites that are used by millions of people per day, such as HBOnow.com, NHL.com, SNY.tv and 120sports.com.",
+        "Leading a team of engineers to develop scalable, high performance websites for MLBAM. Meeting daily with business and product owners to make sure technical and product specifications are flushed out and adhered to throughout the development process.",
+        "Working with AWS suite creating lambda jobs to automate deployments to s3 buckets for CMS controlled data files.",
+        "Architecture of atomic patterns for reusable, modular and components with interoperability that may be themed through CMS outputted data files.",
+        "Mentoring junior engineers, organizing and leading weekly talks about emerging technologies, company standards and best practices."
+      ]
+    },
+    {
+      "company": "Scripps Networks Interactive",
+      "position": "Front End Engineer",
+      "website": "http://www.scrippsnetworks.com",
+      "endDate": "2015.02",
+      "startDate": "2011.05",
+      "summary": "Scripps Networks Interactive is the leading developer of high-profile content for many lifestyle media platforms including television, digital, mobile and publishing. Some popular lifestyle brands - HGTV, DIY Network, Food Network, Cooking Channel, Travel Channel and Great American Country",
+      "highlights": [
+        "Manage & Maintenance for all the digital properties, including enhancements, bug fixes, performance, security, unit testing, 3rd party oversight, integrations, and code deployments.",
+        "Responsible for tightening security, creating svn architecture, code audit, theme creation, improving work flow and communication on all the blogs housed under Scripps Networks Interactive.",
+        "Managed small projects allowing the lead developer and project manager to focus on high-level organizational oversight.",
+        "Implemented the HTML5 video player to increase revenue on iOS devices, by using the JavaScript object name space and Charles proxy to develop on the iPhone/iPad via the desktop computer.",
+        "An agile work environment with daily stand ups, tracking time in harvest and tickets/projects in Jira with peer code review to check integrity, performance, stability and reliability across platforms and browsers."
+      ]
+    },
+    {
+      "company": "Hot Studio",
+      "position": "Front End Engineer",
+      "website": "http://www.hotstudio.com",
+      "startDate": "2011.02",
+      "endDate": "2011.05",
+      "summary": "Recently acquired by Facebook, Hot Studio has a 16-year history working with some of the world’s biggest and best brands. They have an intricate understanding of what businesses need and a flair for building tools and resources to help meet those needs.",
+      "highlights": [
+        "Contracted to build out a working prototype of Park & Bond for Gilt Groupe, for in house user acceptance testing."
+      ]
+    },
+    {
+      "company": "Petflow",
+      "position": "Lead Front End Engineer",
+      "website": "https://www.petflow.com",
+      "startDate": "2010.06",
+      "endDate": "2011.02",
+      "summary": "Using Petflow a customer can purchase foods and treats for their dogs and cats as a single one-time purchase or set up an auto-replenishment system that allows them to receive their favorite pet food or supplies every two to 16 weeks, or at a frequency of their choosing.",
+      "highlights": [
+        "Developing and deploying cross browser code to insure a unified branded experience for the end user.",
+        "Migrated website from Drupal platform to in house framework, rewriting all the CSS and JavaScript from scratch.",
+        "Created templates for editorial and marketing to populate with content."
+      ]
+    },
+    {
+      "company": "Rocketfuel Studios",
+      "position": "Drupal Developer",
+      "website": "https://www.rocketfuelstudios.com",
+      "startDate": "2010.03",
+      "endDate": "2010.06",
+      "summary": "Small startup studio tasked with overhauling https://www.mls.com",
+      "highlights": [
+        "Assisted RocketFuel Studios in completing the re-branding and launch of the new Major League Soccer site, as well as all 16 team companion sites.",
+        "Utilizing CSS, PHP, JavaScript and XHTML I helped theme pages for Drupal. Assisted in the re-theme of sub pages for a sidebar implementation.",
+        "Fixed the navigation bar to allow current state, as well as dropdown navigation.",
+        "Re-structured the homepage layout to match the approved photoshop composition.",
+        "Cleaned up Drupal in the back end, eliminating unnecessary panels and blocks as well as optimizing the CSS."
+      ]
+    },
+    {
+      "company": "Rockstar",
+      "position": "Front End Engineer / Web Designer",
+      "website": "https://www.rockstargames.com",
+      "startDate": "2008.05",
+      "endDate": "2009.12",
+      "summary": "Rockstar Games is a multinational video game developer and publisher based in New York City, owned by Take-Two Interactive following its purchase of British video game publisher BMG Interactive.",
+      "highlights": [
+        "Worked on the marketing campaigns of the recently released Chinatown Wars, Episodes from Liberty City, Beaterator, Midnight Club Los Angeles, Grand Theft Auto IV, Grand Theft Auto Chinatown Wars, Bully Scholarship, Max Payne 3 and Red Dead Redemption.",
+        "Coordinated with Rockstar International to develop, produce and design all the internationalized versions of the game sites using CakePHP, Apache to create virtual hosts on the development server, as well as keeping them synced with their US counterpart through perforce and .htaccess.",
+        "Set the research department up with a comprehensive way of sending out e-blasts, archiving sent e-blasts, and developed new research sites as needed in Word Press, modifying the PHP, CSS, HTML and JavaScript.",
+        "Updated the Rockstargames, Rockstargames studios, Rockstar Warehouse, Take2 Store, Social Club and Take2 Games sites through use of PHP, mySQL, CakePHP framework, HTML, CSS, jQuery, JavaScript, Yahoo! Store and AS3.",
+        "Created a developer documentation library and made the process of pushing staging sites to live more efficient.",
+        "Designed, developed and deployed the Rockstar Propaganda e-newsletter via Lyris List Manager e-mail software"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "area": "Fine Arts, Concentration in Interactive Design",
+      "studyType": "Bachelor",
+      "startDate": "2001.08",
+      "endDate": "2005.01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "New York University",
+      "area": "Computer Science",
+      "studyType": "Continuing education",
+      "startDate": "2008.10",
+      "endDate": "2011.10",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Node",
+        "AWS",
+        "Grunt",
+        "npm",
+        "ES6",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "SVN",
+        "Git",
+        "Bash",
+        "Charles"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Master",
+      "keywords": [
+        "PhotoShop",
+        "Illustrator",
+        "Print",
+        "Web",
+        "Mobile",
+        "Atomic",
+        "Patterns",
+        "Responsive",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Climbing",
+        "Hiking",
+        "Camping"
+      ]
+    },
+    {
+      "name": "Ice Hockey",
+      "keywords": [
+        "NHL",
+        "Washington Capitals",
+        "Caps"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "David Krulik",
+      "reference": "Elan's work on my website davidkrulik.com has always had a special place in my memory. It was the very first website I endeavored to create, and the experience of working with Elan is marked by a few things, the least of which was his professionalism from start to finish, tirelessness in making sure the site was prefect and the fact that he was just a really cool guy to work with. This was 3 years ago. I can only imagine that since then, Elan's skills and technical prowess have only grown and matured. He comes highly recommended."
+    },
+    {
+      "name": "Matthew Hartman",
+      "reference": "Mr. Trybuch was gracious enough to assist me on a electronic media presentation for a government client. His enthusiasm and can-do attitude did not go unnoticed, as this project required significant re-work. I appreciate his undying professionalism on many early mornings and late nights."
+    },
+    {
+      "name": "Joshua Marans, MS, LACMHC",
+      "reference": "I hired Elan on multiple occasions to do some freelance design work for Marriott International and each time he produced a clean, unique product, and his communication with us was outstanding."
+    },
+    {
+      "name": "Dante Chinni",
+      "reference": "Elan is a hard-working, imaginative and inventive graphic designer who is easy to work with."
+    }
+  ],
+  "__v": 0
+}
